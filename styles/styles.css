@@ -840,6 +840,11 @@ section {
   .main-title h2 .bg-text {
     font-size: 2.3rem;
   }
+   .contact-content-con .left-contact .contact-icon {
+    display: flex;
+    margin-top: 2rem;
+    justify-content: center;
+}
 }
 @media screen and (max-width: 1432px) {
   .container {
